@@ -12,7 +12,7 @@
 - VPN для удалённых сотрудников и между офисами, 
 - автоматизация бэкапов.
 
-![screenshot](screenshot/схема сети.jpg)
+![Схема сети](screenshot/network-scheme.jpg)
 
 
 ## VLAN — зачем
